@@ -1,8 +1,9 @@
+
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230311
+# Name: Viswapriya S
+# Date: 20-05-2026
 
 
 # AIM:
@@ -41,7 +42,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
+<img width="705" height="776" alt="Screenshot 2026-05-20 130543" src="https://github.com/user-attachments/assets/0b4416d1-0ee6-44f5-bde9-4b31e7749e90" />
 
 
 
@@ -62,6 +63,12 @@ Create detailed charts that…
 
 
 
+
+
+<img width="1085" height="740" alt="Screenshot 2026-05-20 112942" src="https://github.com/user-attachments/assets/43c76016-1e65-4e48-9ded-7a9c0841ac53" />
+
+
+
 # COMMUNICTION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
@@ -71,6 +78,10 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 
 
+
+<img width="893" height="735" alt="Screenshot 2026-05-20 134351" src="https://github.com/user-attachments/assets/f02b911b-bdbc-4791-8850-b871203ef7a5" />
+
+
 # PACKAGE DIAGRAM:
 
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
@@ -78,6 +89,7 @@ Package diagrams are structural diagrams used to show the organization and arran
 organization of the layered architecture within any UML classifier, such as a software system.
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
+<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/8ce56444-5893-4aac-95cd-c71ad47f0372" />
 
 
 
@@ -98,6 +110,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="817" height="845" alt="image" src="https://github.com/user-attachments/assets/63f91c2e-9926-494a-9e61-6bc3a5710f74" />
 
 
 
@@ -121,6 +134,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="1280" height="734" alt="image" src="https://github.com/user-attachments/assets/632beef1-7acd-4b53-a7ea-a96e49607b22" />
 
 
 
